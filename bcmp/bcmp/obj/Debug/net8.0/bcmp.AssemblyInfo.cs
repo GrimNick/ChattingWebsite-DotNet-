@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bcmp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4f28592632fb70be63680eef367d28596e9ceb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("bcmp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bcmp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

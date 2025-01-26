@@ -1,42 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\bcmp\\",
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\bcmp\\bcmp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\bcmp\\bcmp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\migrations\\20250122071743_product table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\migrations\\20250122071743_product table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\bcmp\\bcmp\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\areas\\identity\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\areas\\identity\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\areas\\identity\\data\\bcmpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\areas\\identity\\data\\bcmpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\bcmp\\bcmp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\bcmp\\bcmp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\bcmp\\bcmp\\basicchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\basicchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\basicchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\bcmp\\bcmp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\bcmp\\bcmp\\migrations\\20250120071908_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\chattingwebsite-dotnet-\\bcmp\\bcmp\\migrations\\20250120071908_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\migrations\\20250120071908_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|c:\\users\\acer\\source\\repos\\bcmp\\bcmp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0FCE32D8-3111-433E-8939-FCBE4C7B88E2}|bcmp\\bcmp.csproj|solutionrelative:bcmp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,118 +62,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "bcmp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "bcmp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCMAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20250122071743_Product table added.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Migrations\\20250122071743_Product table added.cs",
+              "RelativeDocumentMoniker": "bcmp\\Migrations\\20250122071743_Product table added.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Migrations\\20250122071743_Product table added.cs",
+              "RelativeToolTip": "bcmp\\Migrations\\20250122071743_Product table added.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T07:47:12.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T07:17:43.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\appsettings.json",
-              "RelativeDocumentMoniker": "bcmp\\appsettings.json",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\appsettings.json",
-              "RelativeToolTip": "bcmp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T07:00:50.583Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "bcmpContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Areas\\Identity\\Data\\bcmpContext.cs",
+              "RelativeDocumentMoniker": "bcmp\\Areas\\Identity\\Data\\bcmpContext.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Areas\\Identity\\Data\\bcmpContext.cs",
+              "RelativeToolTip": "bcmp\\Areas\\Identity\\Data\\bcmpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:00:20.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Program.cs",
+              "RelativeDocumentMoniker": "bcmp\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Program.cs",
+              "RelativeToolTip": "bcmp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:20:09.642Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Program.cs",
-              "RelativeDocumentMoniker": "bcmp\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Program.cs",
-              "RelativeToolTip": "bcmp\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\ProductsController.cs",
+              "RelativeDocumentMoniker": "bcmp\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\ProductsController.cs",
+              "RelativeToolTip": "bcmp\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T07:20:09.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RoleViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\RoleViewModel.cs",
-              "RelativeDocumentMoniker": "bcmp\\RoleViewModel.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\RoleViewModel.cs",
-              "RelativeToolTip": "bcmp\\RoleViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T07:44:08.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "bcmp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "bcmp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAAAIAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T07:44:31.171Z",
+              "WhenOpened": "2025-01-22T07:11:54.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BasicChatHub.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\BasicChatHub.cs",
-              "RelativeDocumentMoniker": "bcmp\\BasicChatHub.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\BasicChatHub.cs",
-              "RelativeToolTip": "bcmp\\BasicChatHub.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Areas\\Identity\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "bcmp\\Areas\\Identity\\Data\\Product.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Areas\\Identity\\Data\\Product.cs",
+              "RelativeToolTip": "bcmp\\Areas\\Identity\\Data\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T07:46:07.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T07:00:59.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "bcmp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "bcmp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-20T07:09:17.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "bcmp\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "bcmp\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-20T06:59:49.073Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "bcmp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "bcmp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:47:12.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\appsettings.json",
+              "RelativeDocumentMoniker": "bcmp\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\appsettings.json",
+              "RelativeToolTip": "bcmp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T07:00:50.583Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "bcmp\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\RoleViewModel.cs",
+              "RelativeToolTip": "bcmp\\RoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:44:08.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "bcmp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "bcmp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T07:44:31.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasicChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\BasicChatHub.cs",
+              "RelativeDocumentMoniker": "bcmp\\BasicChatHub.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\BasicChatHub.cs",
+              "RelativeToolTip": "bcmp\\BasicChatHub.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:46:07.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "bcmp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "bcmp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-20T06:59:49.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20250120071908_FirstMigration.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Migrations\\20250120071908_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Migrations\\20250120071908_FirstMigration.cs",
               "RelativeDocumentMoniker": "bcmp\\Migrations\\20250120071908_FirstMigration.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\Migrations\\20250120071908_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\Migrations\\20250120071908_FirstMigration.cs",
               "RelativeToolTip": "bcmp\\Migrations\\20250120071908_FirstMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

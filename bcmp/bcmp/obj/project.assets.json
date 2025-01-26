@@ -8013,11 +8013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\bcmp.csproj",
+      "projectUniqueName": "C:\\Users\\acer\\Source\\Repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\bcmp.csproj",
       "projectName": "bcmp",
-      "projectPath": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\bcmp.csproj",
+      "projectPath": "C:\\Users\\acer\\Source\\Repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\bcmp.csproj",
       "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\obj\\",
+      "outputPath": "C:\\Users\\acer\\Source\\Repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

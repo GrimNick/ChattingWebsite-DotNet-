@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7FxSZu5Uuao=",
+  "dgSpecHash": "WR6HQ5Mw67s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\acer\\source\\repos\\bcmp\\bcmp\\bcmp.csproj",
+  "projectFilePath": "C:\\Users\\acer\\Source\\Repos\\ChattingWebsite-DotNet-\\bcmp\\bcmp\\bcmp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
